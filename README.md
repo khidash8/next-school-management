@@ -20,6 +20,14 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 # npm packages
 ## Recharts
+```
+npm install recharts
+```
 ## react-calendar
+```
+npm i react-calendar
+```
 ## react-big-calendar
-
+```
+npm i react-big-calendar
+```
