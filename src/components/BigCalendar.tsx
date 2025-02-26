@@ -15,8 +15,6 @@ const BigCalendar = () => {
         setView(selectedView);
     };
 
-    console.log('events data', calendarEvents);
-
     return (
         <Calendar
             localizer={localizer}
